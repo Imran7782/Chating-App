@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971806774032",
+    "project_id": "chating-app-a",
+    "storage_bucket": "chating-app-a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971806774032:android:4f906bad8de9126ba84b95",
+        "android_client_info": {
+          "package_name": "com.example.flasapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2O8iVcr850ADo3ioZ2q1mT5yx5QVLSZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
