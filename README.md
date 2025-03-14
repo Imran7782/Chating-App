@@ -1,4 +1,4 @@
-# flasapp
+# Chating App
 
 A new Flutter project.
 
