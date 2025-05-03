@@ -1,15 +1,10 @@
 # Chating App
 
 A new Flutter project.
+![Screenshot 2025-03-18 230531](https://github.com/user-attachments/assets/3b3e183b-1972-493d-ba25-9ff9855bbfe0)
+![Screenshot 2025-03-18 230547](https://github.com/user-attachments/assets/7d789213-e5e4-4a17-b39a-95c9707e6bdb)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
