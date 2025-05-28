@@ -19,4 +19,6 @@ Efficient state management and data flow using Provider combined with Dart Strea
 
 🌙 Dark Mode Ready (optional if implemented)
 Supports light and dark themes for a better user experience in all environments.
+![flash-chating](https://github.com/user-attachments/assets/2c4083b4-fe94-4331-a821-1ebddfa0940c)
+![flash-chating1](https://github.com/user-attachments/assets/4c0071f1-a179-4114-ae51-7c27913610c0)
 
