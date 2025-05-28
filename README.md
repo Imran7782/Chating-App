@@ -1,4 +1,4 @@
-##⚡ Flash Chatting App
+## ⚡ Flash Chatting App
 Flash Chatting App is a sleek and modern real-time messaging application built with Flutter. It features a responsive and polished UI that delivers a smooth and intuitive chat experience. The app supports instant messaging using Firebase Cloud Firestore for real-time data updates and Provider with Streams for efficient state and data management.
 
 ## 🔑 Key Features:
